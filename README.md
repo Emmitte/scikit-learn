@@ -1,4 +1,5 @@
 # scikit-learn
+scikit-learn-master/：scikit-learn源代码<br>
 scikit-learn-script/：<br>
 >iris.txt:原始数据<br>
 >dataset:对原始数据shuffle后的数据<br>
@@ -13,4 +14,3 @@ scikit-learn-script/：<br>
 >KNNTest.py：最近邻分类器<br>
 >DecissionTreeTest.py：决策树分类器<br>
 >SVMTest.py：支持向量机分类器<br>
-scikit-learn-master/：scikit-learn源代码
